@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    justify-content: space-betweengit;
+}
+
+a > img{
+    background-color: cadetblue;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+
+    width: 50rem;
+
+}
+
